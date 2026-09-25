@@ -99,7 +99,7 @@
     "semver": "^6.3.0",
     "tslib": "^2.1.0",
     "typescript": "^5.7.2",
-    "vitest": "^3.2.4",
+    "vitest": "^5.0.2",
     "why-is-node-running": "^2.3.0"
   },
   "dependencies": {
